@@ -1,0 +1,11 @@
+{
+  "name": "criador-de-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bruno305Rodrigues/criador-de-video.git",
+  "author": "Bruno305Rodrigues <bruno_lmr_op@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
